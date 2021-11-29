@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 ![](https://raw.githubusercontent.com/dataseto/logo/main/logo_transparent_background.png)
 You can use the [editor on GitHub](https://github.com/dataseto/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
